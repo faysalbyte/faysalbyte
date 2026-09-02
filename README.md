@@ -1,16 +1,161 @@
-## Hi there 👋
+<!-- HEADER SECTION -->
+<div align="center">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1mC2AHYZeG276L-Ey14_pyPtgHT_KynHy"
+    width="800"
+    height="400"
+    alt="MD Faysal Hossain"
+  />
+  <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
+  <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
+</div>
 
-<!--
-**faysalbyte/faysalbyte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=MD+FAYSAL+HOSSAIN;MERN+STACK+DEVELOPER;GOVT+NSDA+CERTIFIED+TRAINER;FULL-STACK+DEVELOPER;+SQA+ENGINEER" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://img.shields.io/badge/NODE--STATUS-ACTIVE%20⚡-00FFD1?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD%20🇧🇩-A78BFA?style=for-the-badge&labelColor=161B22" />
+  <img src="https://img.shields.io/badge/ASSIGNMENT-OPEN%20FOR%20CONTRACTS-FF6B6B?style=for-the-badge&labelColor=161B22" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+
+## 🛠️ CORE TECH STACK EXPANSION
+
+<table width="100%">
+  <tr>
+ <td width="50%" valign="top">
+      <h4>🌐 CLIENT INTERFACE ARRAY</h4>
+      <p>
+        <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+        <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+        <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+        <img src="https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+        <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white"/>
+        <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+        <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white"/>
+        <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white"/>
+        <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"/>
+        <img src="https://img.shields.io/badge/.net-%23512BD4.svg?style=flat-square&logo=.net&logoColor=white"/>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>⚙️ LOGIC & PERSISTENCE BACKEND</h4>
+      <p>
+        <img src="https://img.shields.io/badge/node.js-%23339933.svg?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/express.js-%23000000.svg?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/python-%233776AB.svg?style=flat-square&logo=python&logoColor=white"/>
+        <img src="https://img.shields.io/badge/django-%23092E20.svg?style=flat-square&logo=django&logoColor=white"/>
+      </p>
+      <p>
+        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white"/>
+        <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat-square&logo=laravel&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MySQL-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white"/>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 INDUSTRY CERTIFICATIONS & CREDENTIALS
+
+<div align="left">
+  <!-- NSDA Badge -->
+  <p>
+    <img src="https://img.shields.io/badge/NSDA%20Web%20Design%20L--3%20RPL-GOVT%20VALIDATED%20✓-00FFD1?style=for-the-badge&labelColor=161B22&logo=read-the-docs&logoColor=00FFD1" width="48%"/>
+    <img src="https://img.shields.io/badge/Web%20Dev%20Freelancing%20L--3-EIT%20PROFESSIONAL-A78BFA?style=for-the-badge&labelColor=161B22&logo=upwork&logoColor=A78BFA" width="48%"/>
+  </p>
+  <!-- Tech Architecture Badges -->
+  <p>
+    <img src="https://img.shields.io/badge/MERN%20Stack%20Architecture-DIPTI%20SYSTEMS-FF6B6B?style=for-the-badge&labelColor=161B22&logo=react&logoColor=FF6B6B" width="48%"/>
+    <img src="https://img.shields.io/badge/Python%20Enterprise%20Apps%20L--4-T%26S%20APPROVED-F59E0B?style=for-the-badge&labelColor=161B22&logo=python&logoColor=F59E0B" width="48%"/>
+  </p>
+  <!-- Mobile & Instructor -->
+  <p>
+    <img src="https://img.shields.io/badge/Native%20Android%20Kotlin%20L--4-DIPTI%20MOBILE-3DDC84?style=for-the-badge&labelColor=161B22&logo=android&logoColor=3DDC84" width="48%"/>
+  </p>
+</div>
+
+---
+
+## ⚙️ INFRASTRUCTURE & AUTOMATION MATRIX
+<p align="left">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"/>
+</p>
+
+---
+
+## 📡 SECURE DISPATCH COMPONENT
+
+<div align="center">
+  <p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=004225&center=true&vCenter=true&width=600&lines=FOLLOW+FACEBOOK;FOLLOW+LinkedIN;FOLLOW+YOUTUBE;FOLLOW+Tweeter;FOLLOW+Instagram;FOLLOW+TELEGRAM+GROUP;FOLLOW+PINTEREST;FOLLOW+TikTok" alt="Typing SVG" />
+</p>
+<a href="https://www.linkedin.com/groups/18637071/">
+<img src="https://img.shields.io/badge/LinkedIn-Group-0077B5?style=for-the-badge&logo=linkedin" />
+</a>
+  <a href="https://www.linkedin.com/in/md-faysal-hossain-bddh" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Personal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://www.youtube.com/@md.faysal.hossain" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+
+  <a href="https://www.facebook.com/md.faysal.hossain.mern" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+
+  <a href="https://www.instagram.com/faysal_backbencher/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="https://x.com/MdFaysalbddh" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <a href="https://www.tiktok.com/@md_faysal_hossain_mern" target="_blank">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+
+  <a href="https://www.pinterest.com/mdfaysalhossainmern/" target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
+  </a>
+
+  <a href="https://t.me/DevEngineersHub" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-Group-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+
+  <br/><br/>
+</div>
+
+---
+<div align="center">
+  <sub><code>[OPERATING YEAR: 2026]</code></sub>
+</div>
