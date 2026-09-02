@@ -78,27 +78,127 @@
 </table>
 
 ---
-
 ## 🏆 INDUSTRY CERTIFICATIONS & CREDENTIALS
 
 <div align="left">
-  <!-- NSDA Badge -->
+
+  <!-- Professional Certifications -->
   <p>
-    <img src="https://img.shields.io/badge/NSDA%20Web%20Design%20L--3%20RPL-GOVT%20VALIDATED%20✓-00FFD1?style=for-the-badge&labelColor=161B22&logo=read-the-docs&logoColor=00FFD1" width="48%"/>
-    <img src="https://img.shields.io/badge/Web%20Dev%20Freelancing%20L--3-EIT%20PROFESSIONAL-A78BFA?style=for-the-badge&labelColor=161B22&logo=upwork&logoColor=A78BFA" width="48%"/>
+    <img src="https://img.shields.io/badge/Industrial%20Certified-MERN%20Stack%20Developer-61DAFB?style=for-the-badge&labelColor=161B22&logo=react&logoColor=61DAFB" width="48%"/>
+    <img src="https://img.shields.io/badge/Full%20Stack-Web%20Developer-00FFD1?style=for-the-badge&labelColor=161B22&logo=github&logoColor=00FFD1" width="48%"/>
   </p>
-  <!-- Tech Architecture Badges -->
+
+  <!-- NSDA Web Development -->
   <p>
-    <img src="https://img.shields.io/badge/MERN%20Stack%20Architecture-DIPTI%20SYSTEMS-FF6B6B?style=for-the-badge&labelColor=161B22&logo=react&logoColor=FF6B6B" width="48%"/>
-    <img src="https://img.shields.io/badge/Python%20Enterprise%20Apps%20L--4-T%26S%20APPROVED-F59E0B?style=for-the-badge&labelColor=161B22&logo=python&logoColor=F59E0B" width="48%"/>
+    <img src="https://img.shields.io/badge/NSDA%20Level--3-Web%20Design%20%26%20Development%20for%20Freelancing-00FFD1?style=for-the-badge&labelColor=161B22&logo=read-the-docs&logoColor=00FFD1" width="48%"/>
+    <img src="https://img.shields.io/badge/NSDA%20Level--5-Web%20Design%20%26%20Development%20for%20Freelancing-A78BFA?style=for-the-badge&labelColor=161B22&logo=read-the-docs&logoColor=A78BFA" width="48%"/>
   </p>
-  <!-- Mobile & Instructor -->
+
+  <!-- MERN & Web Architecture -->
   <p>
-    <img src="https://img.shields.io/badge/Native%20Android%20Kotlin%20L--4-DIPTI%20MOBILE-3DDC84?style=for-the-badge&labelColor=161B22&logo=android&logoColor=3DDC84" width="48%"/>
+    <img src="https://img.shields.io/badge/MERN%20Stack-Architecture-FF6B6B?style=for-the-badge&labelColor=161B22&logo=react&logoColor=FF6B6B" width="48%"/>
+    <img src="https://img.shields.io/badge/Frontend%20%26%20Backend-Web%20Development-38BDF8?style=for-the-badge&labelColor=161B22&logo=visual-studio-code&logoColor=38BDF8" width="48%"/>
   </p>
+
+  <!-- Freelancing & Training -->
+  <p>
+    <img src="https://img.shields.io/badge/Web%20Design%20%26%20Development-Freelancing%20Trainer-F59E0B?style=for-the-badge&labelColor=161B22&logo=upwork&logoColor=F59E0B" width="48%"/>
+    <img src="https://img.shields.io/badge/Freelancing-Web%20Development%20Trainer-22C55E?style=for-the-badge&labelColor=161B22&logo=freelancer&logoColor=22C55E" width="48%"/>
+  </p>
+
+  <!-- Android Development -->
+  <p>
+    <img src="https://img.shields.io/badge/NSDA%20Level--4-Android%20App%20Development%20with%20Kotlin-3DDC84?style=for-the-badge&labelColor=161B22&logo=android&logoColor=3DDC84" width="48%"/>
+    <img src="https://img.shields.io/badge/Native%20Android-Kotlin%20Developer-7F52FF?style=for-the-badge&labelColor=161B22&logo=kotlin&logoColor=7F52FF" width="48%"/>
+  </p>
+
+  <!-- Digital Marketing & SEO -->
+  <p>
+    <img src="https://img.shields.io/badge/NSDA%20Level--3-Digital%20Marketing%20for%20Freelancing-F97316?style=for-the-badge&labelColor=161B22&logo=google&logoColor=F97316" width="48%"/>
+    <img src="https://img.shields.io/badge/NSDA%20Level--4-Digital%20Marketing%20for%20Freelancing-FFB000?style=for-the-badge&labelColor=161B22&logo=google&logoColor=FFB000" width="48%"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/SEO-Expert-4285F4?style=for-the-badge&labelColor=161B22&logo=google&logoColor=4285F4" width="48%"/>
+    <img src="https://img.shields.io/badge/SEO-Professional-00C853?style=for-the-badge&labelColor=161B22&logo=google&logoColor=00C853" width="48%"/>
+  </p>
+
+  <!-- CMS & eCommerce -->
+  <p>
+    <img src="https://img.shields.io/badge/CMS-Developer-8B5CF6?style=for-the-badge&labelColor=161B22&logo=wordpress&logoColor=8B5CF6" width="48%"/>
+    <img src="https://img.shields.io/badge/CMS-Expert-F15B2A?style=for-the-badge&labelColor=161B22&logo=wordpress&logoColor=F15B2A" width="48%"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Shopify-Expert-96BF48?style=for-the-badge&labelColor=161B22&logo=shopify&logoColor=96BF48" width="48%"/>
+    <img src="https://img.shields.io/badge/eCommerce-Developer-FF6B6B?style=for-the-badge&labelColor=161B22&logo=shopify&logoColor=FF6B6B" width="48%"/>
+  </p>
+
+  <!-- Website Platforms -->
+  <p>
+    <img src="https://img.shields.io/badge/WordPress-Developer-21759B?style=for-the-badge&labelColor=161B22&logo=wordpress&logoColor=21759B" width="48%"/>
+    <img src="https://img.shields.io/badge/Webflow-Developer-4353FF?style=for-the-badge&labelColor=161B22&logo=webflow&logoColor=4353FF" width="48%"/>
+  </p>
+
+  <p>
+    <img src="https://img.shields.io/badge/Wix-Developer-0C0C0C?style=for-the-badge&labelColor=161B22&logo=wix&logoColor=FFFFFF" width="48%"/>
+    <img src="https://img.shields.io/badge/Squarespace-Developer-FFFFFF?style=for-the-badge&labelColor=161B22&logo=squarespace&logoColor=FFFFFF" width="48%"/>
+  </p>
+
+  <!-- Software Quality Assurance -->
+  <p>
+    <img src="https://img.shields.io/badge/NSDA%20Level--3-Software%20Quality%20Assurance-22C55E?style=for-the-badge&labelColor=161B22&logo=checkmarx&logoColor=22C55E" width="48%"/>
+    <img src="https://img.shields.io/badge/Certified-Software%20Quality%20Assurance-10B981?style=for-the-badge&labelColor=161B22&logo=testing-library&logoColor=10B981" width="48%"/>
+  </p>
+
+  <!-- Additional Technical Knowledge -->
+  <p>
+    <img src="https://img.shields.io/badge/UI%2FUX-Knowledge-EC4899?style=for-the-badge&labelColor=161B22&logo=figma&logoColor=EC4899" width="48%"/>
+    <img src="https://img.shields.io/badge/DevOps-Knowledge-F97316?style=for-the-badge&labelColor=161B22&logo=docker&logoColor=F97316" width="48%"/>
+  </p>
+
 </div>
 
 ---
+
+## 💼 PROFESSIONAL EXPERTISE
+
+- 🧑‍💻 **Industrial Certified MERN Stack Developer**
+- 🌐 **Full Stack Web Developer**
+- 🎨 **Frontend Developer**
+- ⚙️ **Backend Developer**
+- 🧩 **CMS Developer & CMS Expert**
+- 🛒 **Shopify Expert**
+- 🛍️ **eCommerce Developer**
+- 📝 **WordPress Developer**
+- 🎨 **Webflow Developer**
+- 🚀 **Wix Developer**
+- 🖥️ **Squarespace Developer**
+- 🔍 **SEO Expert**
+- 📈 **Digital Marketing for Freelancing**
+- 👨‍🏫 **Web Design & Web Development for Freelancing Trainer**
+- 📱 **Native Android App Developer with Kotlin**
+- 🧪 **Certified Software Quality Assurance Professional**
+- 🎯 **UI/UX Knowledge**
+- ☁️ **DevOps Knowledge**
+
+---
+
+## 🎓 NSDA CERTIFICATIONS
+
+| Certification | Level |
+|---|:---:|
+| Web Design & Web Development for Freelancing | **Level-3** |
+| Web Design & Web Development for Freelancing | **Level-5** |
+| Android App Development with Kotlin | **Level-4** |
+| Digital Marketing for Freelancing (SEO) | **Level-3** |
+| Digital Marketing for Freelancing (SEO) | **Level-4** |
+| Software Quality Assurance | **Level-3** |
+
+---
+
+> **🚀 Building modern web applications, scalable digital solutions, eCommerce platforms, and professional online experiences — with expertise spanning development, SEO, CMS, QA, and DevOps.**
+
 
 ## ⚙️ INFRASTRUCTURE & AUTOMATION MATRIX
 <p align="left">
