@@ -7,7 +7,7 @@
     alt="MD Faysal Hossain"
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
-  <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED INSTRUCTOR</b></p>
+  <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED</b></p>
 </div>
 
 <p align="center">
