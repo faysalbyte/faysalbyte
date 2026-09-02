@@ -11,8 +11,12 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=900&size=24&duration=3000&pause=1000&color=800020&center=true&vCenter=true&width=600&lines=MD+FAYSAL+HOSSAIN;MERN+STACK+DEVELOPER;GOVT+NSDA+CERTIFIED+TRAINER;FULL-STACK+DEVELOPER;+SQA+ENGINEER" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=650&lines=MD+FAYSAL+HOSSAIN;MERN+STACK+DEVELOPER;NSDA+CERTIFIED+TRAINER;FULL+STACK+DEVELOPER;SOFTWARE+QA+ENGINEER" 
+    alt="MD Faysal Hossain - MERN Stack Developer"
+  />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/NODE--STATUS-ACTIVE%20⚡-00FFD1?style=for-the-badge&labelColor=161B22" />
