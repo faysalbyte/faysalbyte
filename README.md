@@ -120,7 +120,7 @@
 <a href="https://www.linkedin.com/groups/18637071/">
 <img src="https://img.shields.io/badge/LinkedIn-Group-0077B5?style=for-the-badge&logo=linkedin" />
 </a>
-  <a href="https://www.linkedin.com/in/md-faysal-hossain-bddh" target="_blank">
+  <a href="https://www.linkedin.com/in/faysalbyte" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Personal-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
@@ -128,23 +128,23 @@
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 
-  <a href="https://www.facebook.com/md.faysal.hossain.mern" target="_blank">
+  <a href="https://www.facebook.com/faysalbyte" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
 
-  <a href="https://www.instagram.com/faysal_backbencher/" target="_blank">
+  <a href="https://www.instagram.com/faysalbyte" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://x.com/MdFaysalbddh" target="_blank">
+  <a href="https://x.com/faysalbyte" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
-  <a href="https://www.tiktok.com/@md_faysal_hossain_mern" target="_blank">
+  <a href="https://www.tiktok.com/@faysalbyte" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
   </a>
 
-  <a href="https://www.pinterest.com/mdfaysalhossainmern/" target="_blank">
+  <a href="https://www.pinterest.com/faysalbyte" target="_blank">
     <img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" />
   </a>
 
