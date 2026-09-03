@@ -198,9 +198,12 @@
 | Web Design & Web Development for Freelancing | **Level-3** |
 | Web Design & Web Development for Freelancing | **Level-5** |
 | Android App Development with Kotlin | **Level-4** |
+| Web Application Development with Python | **Level-4** |
+| Certified MERN Stack Developer | **Industry Certified** |
 | Digital Marketing for Freelancing (SEO) | **Level-3** |
 | Digital Marketing for Freelancing (SEO) | **Level-4** |
 | Software Quality Assurance | **Level-3** |
+| IT Support Service  | **Level-3** |
 ---
 
 
