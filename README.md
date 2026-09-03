@@ -11,8 +11,8 @@
   <span>
     FULL-STACK MERN ENGINEER //
   </span>
-
-  <img  align="center"
+<p  align="center">
+  <img  
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=18&duration=2800&pause=1000&color=FF8C42&center=false&vCenter=false&width=560&height=30&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
     alt="NSDA Certified"
     style="
@@ -21,6 +21,7 @@
       display: block;
     "
   />
+</p>
 </p>
 
 
