@@ -7,7 +7,7 @@
     alt="MD Faysal Hossain"
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
- <p><b>FULL-STACK MERN ENGINEER // <span> <img
+ <p><b>FULL-STACK MERN ENGINEER <span> <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=21&duration=2800&pause=1000&color=E8E7FE&center=true&vCenter=true&width=1000&height=50&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
     alt="NSDA Certified - National Skills Development Authority"
   />
