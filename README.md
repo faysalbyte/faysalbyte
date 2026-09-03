@@ -1,4 +1,3 @@
-<!-- HEADER SECTION -->
 <div align="center">
   <img
     src="https://drive.google.com/uc?export=view&id=1mC2AHYZeG276L-Ey14_pyPtgHT_KynHy"
@@ -14,8 +13,6 @@
 </span>
 </b></p>
 
-
-
 </div>
 
 <p align="center">
@@ -25,8 +22,6 @@
   />
 </p>
 
-
-
 <p align="center">
   <img src="https://img.shields.io/badge/NODE--STATUS-ACTIVE%20⚡-00FFD1?style=for-the-badge&labelColor=161B22" />
   <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD%20🇧🇩-A78BFA?style=for-the-badge&labelColor=161B22" />
@@ -34,7 +29,6 @@
 </p>
 
 ---
-
 
 ## 🛠️ CORE TECH STACK EXPANSION
 
@@ -91,7 +85,7 @@
 </table>
 
 ---
-## 🏆 INDUSTRY CERTIFICATIONS & CREDENTIALS
+## <div  align="center">🏆 INDUSTRY CERTIFICATIONS & CREDENTIALS </div>
 
 <div align="left">
 
