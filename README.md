@@ -10,70 +10,10 @@
   <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED</b></p>
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                    PROFESSIONAL HEADER                        -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=24&duration=3000&pause=1000&color=FF8C42&center=true&vCenter=true&width=700&height=45&lines=MD+FAYSAL+HOSSAIN"
-    alt="MD Faysal Hossain"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=18&duration=3000&pause=1000&color=00FFD1&center=true&vCenter=true&width=850&height=35&lines=INDUSTRIAL+CERTIFIED+MERN+STACK+DEVELOPER"
-    alt="Industrial Certified MERN Stack Developer"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=950&height=35&lines=WEB+DESIGN+%26+WEB+DEVELOPMENT+FOR+FREELANCING+TRAINER"
-    alt="Web Design and Web Development for Freelancing Trainer"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=950&height=35&lines=NSDA+LEVEL-3+%26+LEVEL-5+WEB+DEVELOPMENT+CERTIFIED"
-    alt="NSDA Level 3 and Level 5 Web Development Certified"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=3DDC84&center=true&vCenter=true&width=900&height=35&lines=NSDA+LEVEL-4+ANDROID+APP+DEVELOPMENT+WITH+KOTLIN"
-    alt="NSDA Level 4 Android App Development with Kotlin"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=F59E0B&center=true&vCenter=true&width=950&height=35&lines=NSDA+LEVEL-3+%26+LEVEL-4+DIGITAL+MARKETING+%7C+SEO"
-    alt="NSDA Digital Marketing and SEO"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=850&height=35&lines=CERTIFIED+SOFTWARE+QUALITY+ASSURANCE+ENGINEER"
-    alt="Certified Software Quality Assurance Engineer"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=EC4899&center=true&vCenter=true&width=850&height=35&lines=CMS+%7C+SHOPIFY+%7C+WORDPRESS+%7C+WEBFLOW+DEVELOPER"
-    alt="CMS Shopify WordPress Webflow Developer"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=16&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&height=35&lines=UI%2FUX+%7C+DEVOPS+KNOWLEDGE"
-    alt="UI UX and DevOps Knowledge"
+    src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=800&size=20&duration=2800&pause=900&color=FF8C42&center=true&vCenter=true&width=900&height=50&lines=MD+FAYSAL+HOSSAIN;INDUSTRIAL+CERTIFIED+MERN+STACK+DEVELOPER;WEB+DESIGN+%26+WEB+DEVELOPMENT+FOR+FREELANCING+TRAINER;NSDA+LEVEL-3+%26+LEVEL-5+WEB+DEVELOPMENT+CERTIFIED;NSDA+LEVEL-4+ANDROID+APP+DEVELOPMENT+WITH+KOTLIN;NSDA+LEVEL-3+%26+LEVEL-4+DIGITAL+MARKETING+%7C+SEO;CERTIFIED+SOFTWARE+QUALITY+ASSURANCE+ENGINEER;FULL+STACK+WEB+DEVELOPER;FRONTEND+%7C+BACKEND+%7C+CMS+DEVELOPER;SHOPIFY+%7C+WORDPRESS+%7C+WEBFLOW+%7C+WIX;UI%2FUX+%7C+DEVOPS+KNOWLEDGE"
+    alt="MD Faysal Hossain - Professional Profile"
   />
 </p>
 
