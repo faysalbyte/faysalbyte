@@ -38,7 +38,7 @@
 
 ## 🛠️ CORE TECH STACK EXPANSION
 
-<table width="100%">
+<table width="100%"  align="center">
   <tr>
  <td width="50%" valign="top">
       <h4>🌐 CLIENT INTERFACE ARRAY</h4>
