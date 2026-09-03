@@ -8,7 +8,7 @@
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
 <p>
-  <span style="font-family: 'Montserrat', sans-serif; font-weight: 900; font-size: 18px;">
+  <span style="font-family: 'Montserrat', sans-serif; font-weight: 900; font-size: 80px;">
     FULL-STACK MERN ENGINEER //
   </span>
   <img
