@@ -7,15 +7,15 @@
     alt="MD Faysal Hossain"
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
- <p>
-  <b>
+<p>
+  <span style="font-family: 'Montserrat', sans-serif; font-weight: 800; font-size: 18px;">
     FULL-STACK MERN ENGINEER //
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=18&duration=2800&pause=1000&color=FF8C42&center=false&vCenter=true&width=560&height=30&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
-      alt="NSDA Certified"
-      style="vertical-align: middle;"
-    />
-  </b>
+  </span>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=18&duration=2800&pause=1000&color=FF8C42&center=false&vCenter=true&width=560&height=30&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
+    alt="NSDA Certified"
+    style="vertical-align: middle;"
+  />
 </p>
 
 </div>
