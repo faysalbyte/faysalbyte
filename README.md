@@ -7,7 +7,16 @@
     alt="MD Faysal Hossain"
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
-  <p><b>FULL-STACK MERN ENGINEER // NSDA CERTIFIED</b></p>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=21&duration=2800&pause=900&color=FF8C42&center=true&vCenter=true&width=900&height=50&lines=MD+FAYSAL+HOSSAIN;INDUSTRIAL+CERTIFIED+MERN+STACK+DEVELOPER;NSDA+CERTIFIED;FULL+STACK+WEB+DEVELOPER;SOFTWARE+QUALITY+ASSURANCE+ENGINEER;WEB+DEVELOPMENT+%7C+SEO+%7C+CMS+%7C+eCOMMERCE"
+    alt="MD Faysal Hossain - NSDA Certified Developer"
+  />
+</p>
+
+<p align="center">
+  <strong>NSDA — National Skills Development Authority</strong>
+</p>
 </div>
 
 <p align="center">
