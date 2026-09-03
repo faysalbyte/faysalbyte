@@ -14,6 +14,7 @@
     font-weight: 900;
     line-height: 30px;
     white-space: nowrap;
+    style="display: inline"
   ">
     FULL-STACK MERN ENGINEER //
   </span>
