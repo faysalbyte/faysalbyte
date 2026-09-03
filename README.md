@@ -169,7 +169,7 @@
 ---
 
 ## <div  align="center"> 💼 PROFESSIONAL EXPERTISE</div>
-<div  align="center">
+
 - 🧑‍💻 **Industrial Certified MERN Stack Developer**
 - 🌐 **Full Stack Web Developer**
 - 🎨 **Frontend Developer**
@@ -188,7 +188,7 @@
 - 🧪 **Certified Software Quality Assurance Professional**
 - 🎯 **UI/UX Knowledge**
 - ☁️ **DevOps Knowledge**
-</div>
+
 ---
 
 ## <div  align="center"> 🎓 NSDA CERTIFICATIONS</div>
