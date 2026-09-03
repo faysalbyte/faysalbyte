@@ -7,12 +7,17 @@
     alt="MD Faysal Hossain"
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
-  <p><b>FULL-STACK MERN ENGINEER // <span> <img
-    src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=21&duration=2800&pause=1000&color=FF8C42&center=true&vCenter=true&width=1000&height=50&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
-    alt="NSDA Certified - National Skills Development Authority"
-  />
-</span>
-</b></p>
+ <p>
+  <b>
+    FULL-STACK MERN ENGINEER //
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=800&size=18&duration=2800&pause=1000&color=FF8C42&center=false&vCenter=true&width=560&height=30&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
+      alt="NSDA Certified"
+      style="vertical-align: middle;"
+    />
+  </b>
+</p>
+
 </div>
 
 <p align="center">
