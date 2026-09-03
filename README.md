@@ -196,6 +196,7 @@
 | Certification | Level |
 |---|:---:|
 | Web Design & Web Development for Freelancing | **Level-3** |
+| Web Design | **Level-3** |
 | Web Design & Web Development for Freelancing | **Level-5** |
 | Android App Development with Kotlin | **Level-4** |
 | Web Application Development with Python | **Level-4** |
