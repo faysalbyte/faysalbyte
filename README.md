@@ -30,7 +30,7 @@
 
 ---
 
-## 🛠️ CORE TECH STACK EXPANSION
+## <div  align="center">🛠️ CORE TECH STACK EXPANSION </div>
 
 <table width="100%"  align="center">
   <tr>
@@ -168,8 +168,8 @@
 
 ---
 
-## 💼 PROFESSIONAL EXPERTISE
-
+## <div  align="center"> 💼 PROFESSIONAL EXPERTISE</div>
+<div  align="center">
 - 🧑‍💻 **Industrial Certified MERN Stack Developer**
 - 🌐 **Full Stack Web Developer**
 - 🎨 **Frontend Developer**
@@ -188,10 +188,10 @@
 - 🧪 **Certified Software Quality Assurance Professional**
 - 🎯 **UI/UX Knowledge**
 - ☁️ **DevOps Knowledge**
-
+</div>
 ---
 
-## 🎓 NSDA CERTIFICATIONS
+## <div  align="center"> 🎓 NSDA CERTIFICATIONS</div>
 
 | Certification | Level |
 |---|:---:|
