@@ -8,14 +8,7 @@
   />
   <h1>⚡ MD FAYSAL HOSSAIN ⚡</h1>
 <p style="display: flex; align-items: center; gap: 6px; margin: 0; line-height: 30px;">
-  <span style="
-    font-family: 'Montserrat', sans-serif;
-    font-size: 18px;
-    font-weight: 900;
-    line-height: 30px;
-    white-space: nowrap;
-    style="display: inline"
-  ">
+  <span>
     FULL-STACK MERN ENGINEER //
   </span>
 
