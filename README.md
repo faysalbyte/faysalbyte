@@ -201,8 +201,8 @@
 | Digital Marketing for Freelancing (SEO) | **Level-3** |
 | Digital Marketing for Freelancing (SEO) | **Level-4** |
 | Software Quality Assurance | **Level-3** |
-</div>
 ---
+</div>
 
 > **🚀 Building modern web applications, scalable digital solutions, eCommerce platforms, and professional online experiences — with expertise spanning development, SEO, CMS, QA, and DevOps.**
 
