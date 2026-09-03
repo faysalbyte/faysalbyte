@@ -11,6 +11,7 @@
   <span style="font-family: 'Montserrat', sans-serif; font-weight: 900; font-size: 800px;">
     FULL-STACK MERN ENGINEER //
    </span>
+  <br>
   <img
     src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=90&size=18&duration=2800&pause=1000&color=8EFAD5&center=false&vCenter=true&width=560&height=30&lines=NSDA+CERTIFIED;NSDA+-+NATIONAL+SKILLS+DEVELOPMENT+AUTHORITY"
     alt="NSDA Certified"
