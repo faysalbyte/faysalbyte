@@ -192,7 +192,7 @@
 ---
 
 ## <div  align="center"> 🎓 NSDA CERTIFICATIONS</div>
- align="center"
+
 | Certification | Level |
 |---|:---:|
 | Web Design & Web Development for Freelancing | **Level-3** |
