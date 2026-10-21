@@ -1,3 +1,10 @@
+<div align="center">
+  <img
+    src="https://drive.google.com/uc?export=view&id=1mC2AHYZeG276L-Ey14_pyPtgHT_KynHy"
+    width="800"
+    height="400"
+    alt="MD Faysal Hossain"
+  />
 
 # MD Faysal Hossain | MERN Stack Developer
 
